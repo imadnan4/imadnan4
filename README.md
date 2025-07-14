@@ -91,13 +91,13 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
 - ☁️ **Cloud Solutions**: Developing cloud-native applications and services
 - 🔧 **Full-Stack Development**: Creating end-to-end web applications
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imadnan4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnan4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -109,12 +109,28 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
   <a href="https://github.com/imadnan4/Vision-Script" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadnan4&repo=Vision-Script&theme=radical&hide_border=true" alt="Vision-Script" />
   </a>
+  <a href="https://github.com/imadnan4/FactRadar" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadnan4&repo=FactRadar&theme=radical&hide_border=true" alt="FactRadar" />
+  </a>
 </div>
 
 ### 🔍 Vision-Script
 **OCR Text Digitalization Solution**
 
 Vision-Script is built to solve the problem of text digitalization. It uses OCR (Optical Character Recognition) to convert your hard copy documents to soft copy digital format. The best part? It's completely offline - once you set it up, you can use it without any internet connection or privacy concerns!
+
+### 📡 FactRadar
+**Advanced Fact-Checking Platform**
+
+FactRadar is a comprehensive fact-checking solution that helps users verify information accuracy in real-time. Built with modern web technologies and AI-powered verification algorithms to combat misinformation.
+
+### 🍽️ Remake
+**AI-Powered Food Waste Reduction Platform**
+
+Remake is an innovative web application that helps users reduce food waste by transforming leftover ingredients into delicious meal suggestions. Simply input what you have in your fridge or pantry, and our advanced two-step AI system will generate creative, practical recipes with complete cooking instructions, nutrition information, and professional tips - all tailored to your available ingredients, dietary preferences, and cooking constraints.
+
+
+**🌐 Live Demo:** [remaake.netlify.app](https://remaake.netlify.app)
 
 ## 📫 Let's Connect!
 
