@@ -1,14 +1,14 @@
-# Hi there! I'm Adnan 👋
+# Hi there! I'm Adnan 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+AI+Enthusiast;Cloud+Practitioner+%7C+ML+Engineer;Building+Scalable+AI+Applications;Exploring+LLM+Architectures;Optimizing+Machine+Learning+Models" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer, AI enthusiast, and cloud practitioner who loves building scalable AI applications, exploring LLM architectures, and optimizing machine learning models. I'm constantly pushing the boundaries of what's possible with artificial intelligence and cloud technologies.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
   
@@ -83,17 +83,17 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
 
 </div>
 
-## 🎯 What I Do
+##  What I Do
 
-- 🤖 **AI Applications**: Building scalable artificial intelligence solutions
-- 🧠 **LLM Architecture**: Exploring and implementing Large Language Model architectures
-- ⚡ **ML Optimization**: Optimizing machine learning models for performance and efficiency
-- ☁️ **Cloud Solutions**: Developing cloud-native applications and services
-- 🔧 **Full-Stack Development**: Creating end-to-end web applications
+-  **AI Applications**: Building scalable artificial intelligence solutions
+-  **LLM Architecture**: Exploring and implementing Large Language Model architectures
+-  **ML Optimization**: Optimizing machine learning models for performance and efficiency
+-  **Cloud Solutions**: Developing cloud-native applications and services
+-  **Full-Stack Development**: Creating end-to-end web applications
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imadnan4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -103,7 +103,7 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnan4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
   <a href="https://github.com/imadnan4/Vision-Script" target="_blank">
@@ -114,25 +114,25 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
   </a>
 </div>
 
-### 🔍 Vision-Script
+###  Vision-Script
 **OCR Text Digitalization Solution**
 
 Vision-Script is built to solve the problem of text digitalization. It uses OCR (Optical Character Recognition) to convert your hard copy documents to soft copy digital format. The best part? It's completely offline - once you set it up, you can use it without any internet connection or privacy concerns!
 
-### 📡 FactRadar
+###  FactRadar
 **Advanced Fact-Checking Platform**
 
 FactRadar is a comprehensive fact-checking solution that helps users verify information accuracy in real-time. Built with modern web technologies and AI-powered verification algorithms to combat misinformation.
 
-### 🍽️ Remake
+###  Remake
 **AI-Powered Food Waste Reduction Platform**
 
 Remake is an innovative web application that helps users reduce food waste by transforming leftover ingredients into delicious meal suggestions. Simply input what you have in your fridge or pantry, and our advanced two-step AI system will generate creative, practical recipes with complete cooking instructions, nutrition information, and professional tips - all tailored to your available ingredients, dietary preferences, and cooking constraints.
 
 
-**🌐 Live Demo:** [remaake.netlify.app](https://remaake.netlify.app)
+** Live Demo:** [remaake.netlify.app](https://remaake.netlify.app)
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   <a href="https://discord.com/im_adnan/" target="_blank">
