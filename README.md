@@ -93,16 +93,6 @@ I'm a passionate developer, AI enthusiast, and cloud practitioner who loves buil
 
 
 
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadnan4&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnan4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ##  Featured Projects
 
 <div align="center">
