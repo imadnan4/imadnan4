@@ -128,7 +128,7 @@ Remake is an innovative web application that helps users reduce food waste by tr
   <a href="https://discord.com/im_adnan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:priadn544@gmail.com" target="_blank">
+  <a href="mailto:adnankhaan4152@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/adnan-ahmad-651b99222/" target="_blank">
