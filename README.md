@@ -120,7 +120,7 @@ FactRadar is a comprehensive fact-checking solution that helps users verify info
 Remake is an innovative web application that helps users reduce food waste by transforming leftover ingredients into delicious meal suggestions. Simply input what you have in your fridge or pantry, and our advanced two-step AI system will generate creative, practical recipes with complete cooking instructions, nutrition information, and professional tips - all tailored to your available ingredients, dietary preferences, and cooking constraints.
 
 
-** Live Demo:** [remaake.netlify.app](https://remaake.netlify.app)
+** Live Demo:** [remaake.netlify.app](https://remakeai.me)
 
 ##  Let's Connect!
 
