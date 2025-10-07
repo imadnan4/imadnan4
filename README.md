@@ -1,7 +1,7 @@
 # Hi there! I'm Adnan 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+AI+Enthusiast;Cloud+Practitioner+%7C+ML+Engineer;Building+Scalable+AI+Applications;Exploring+LLM+Architectures;Optimizing+Machine+Learning+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Cloud+Practitioner+%7C+ML+Engineer;Building+Scalable+AI+Applications;Exploring+LLM+Architectures;Optimizing+Machine+Learning+Models" alt="Typing SVG" />
 </div>
 
 ##  About Me
