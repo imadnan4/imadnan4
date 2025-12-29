@@ -14,15 +14,6 @@
 
 ##  Featured Projects
 
-<div align="center">
-  <a href="https://github.com/imadnan4/Vision-Script" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadnan4&repo=Vision-Script&theme=radical&hide_border=true" alt="Vision-Script" />
-  </a>
-  <a href="https://github.com/imadnan4/FactRadar" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imadnan4&repo=FactRadar&theme=radical&hide_border=true" alt="FactRadar" />
-  </a>
-</div>
-
 ###  Vision-Script
 **OCR Text Digitalization Solution**
 
