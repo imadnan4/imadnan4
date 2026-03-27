@@ -32,7 +32,7 @@ Remake is an innovative web application that helps users reduce food waste by tr
 
 Live Demo: [remaake.netlify.app](https://remakeai.me)
 
-## 🟨 JavaScript Projects
+## Mini Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
