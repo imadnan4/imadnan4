@@ -30,29 +30,29 @@ FactRadar is a comprehensive fact-checking solution that helps users verify info
 Remake is an innovative web application that helps users reduce food waste by transforming leftover ingredients into delicious meal suggestions. Simply input what you have in your fridge or pantry, and our advanced two-step AI system will generate creative, practical recipes with complete cooking instructions, nutrition information, and professional tips - all tailored to your available ingredients, dietary preferences, and cooking constraints.
 
 
-Live Demo: [remaake.netlify.app](https://remakeai.me)
+Live: [remaake.netlify.app](https://remakeai.me)
 
 ## Mini Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [🚀 Live Demo](https://assamblyendgame.netlify.app) |
+| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
-| Password-Generator | Generates complex, secure passwords to protect user privacy | [🚀 Live Demo](https://password-generator-flax-seven.vercel.app) |
-| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [🚀 Live Demo](https://spiral-sounds-black.vercel.app) |
+| Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
+| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [ Live](https://spiral-sounds-black.vercel.app) |
 | Game-Of-War | Browser-based card game where you battle against the computer | [GitHub](https://github.com/imadnan4/Game-Of-War) |
-| Business-Card | Digital business card web application | [🚀 Live Demo](https://business-card-woad-nine.vercel.app) |
+| Business-Card | Digital business card web application | [ Live](https://business-card-woad-nine.vercel.app) |
 | Restaurant-Ordering-App | Restaurant food ordering interface practice project | [GitHub](https://github.com/imadnan4/Restaurant-Ordering-app-) |
 | Express-Api-Practice | REST API practice project built with Express.js | [GitHub](https://github.com/imadnan4/Express-Api-Practice) |
 | X-Clone | A clone of X (formerly Twitter) social media platform | [GitHub](https://github.com/imadnan4/x-clone) |
-| Quizzical | Interactive trivia quiz app built with React | [🚀 Live Demo](https://quizzical-beige-eight.vercel.app) |
-| Gold-Digger | Platform to track live gold prices and calculate investment amounts using a Node.js server | [🚀 Live Demo](https://gold-digger-six.vercel.app) |
+| Quizzical | Interactive trivia quiz app built with React | [ Live](https://quizzical-beige-eight.vercel.app) |
+| Gold-Digger | Platform to track live gold prices and calculate investment amounts using a Node.js server | [ Live](https://gold-digger-six.vercel.app) |
 | Personal-Dashboard-Chrome-Extension | Chrome extension that serves as a personal new-tab dashboard | [GitHub](https://github.com/imadnan4/Personal-Dashboard-Crome-Extension) |
-| Tenzies | Dice-rolling game built with React and Vite | [🚀 Live Demo](https://tenzies-eight-mocha.vercel.app) |
-| Meme-Generator | React app for generating memes with custom text and images | [🚀 Live Demo](https://meme-generator-alpha-lilac.vercel.app) |
+| Tenzies | Dice-rolling game built with React and Vite | [ Live](https://tenzies-eight-mocha.vercel.app) |
+| Meme-Generator | React app for generating memes with custom text and images | [ Live](https://meme-generator-alpha-lilac.vercel.app) |
 | Lead-Tracker | Chrome extension to bookmark and save URLs | [GitHub](https://github.com/imadnan4/Lead-Tracker) |
 | Color-Palette-Generator | Tool to generate and explore color palettes | [GitHub](https://github.com/imadnan4/Color-Palette-Generator) |
-| Movie-Watchlist | App to search and manage a personal movie watchlist | [🚀 Live Demo](https://movie-watchlist-ruddy.vercel.app) |
+| Movie-Watchlist | App to search and manage a personal movie watchlist | [ Live](https://movie-watchlist-ruddy.vercel.app) |
 
 ##  Let's Connect!
 
@@ -82,6 +82,6 @@ Live Demo: [remaake.netlify.app](https://remakeai.me)
 
 <div align="center">
   
-  **"Building the future, one line of code at a time"** 🚀
+  **"Building the future, one line of code at a time"** 
   
 </div>
