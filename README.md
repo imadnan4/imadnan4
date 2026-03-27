@@ -53,6 +53,10 @@ Live: [remaake.netlify.app](https://remakeai.me)
 | Lead-Tracker | Chrome extension to bookmark and save URLs | [GitHub](https://github.com/imadnan4/Lead-Tracker) |
 | Color-Palette-Generator | Tool to generate and explore color palettes | [GitHub](https://github.com/imadnan4/Color-Palette-Generator) |
 | Movie-Watchlist | App to search and manage a personal movie watchlist | [ Live](https://movie-watchlist-ruddy.vercel.app) |
+| Instagram-Clone | A static clone of Instagram's UI built with HTML and CSS | [GitHub](https://github.com/imadnan4/instagram-clone) |
+| Blog-Page | A clean, responsive blog page layout built with HTML and CSS | [GitHub](https://github.com/imadnan4/Blog-Page) |
+| Translation-App | A web app to translate text between multiple languages using a translation API | [GitHub](https://github.com/imadnan4/Translation-App) |
+| Unit-Counter | A handy unit conversion tool to convert between various measurement units | [GitHub](https://github.com/imadnan4/Unit-Counter) |
 
 ##  Let's Connect!
 
