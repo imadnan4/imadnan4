@@ -32,6 +32,28 @@ Remake is an innovative web application that helps users reduce food waste by tr
 
 Live Demo: [remaake.netlify.app](https://remakeai.me)
 
+## 🟨 JavaScript Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [GitHub](https://github.com/imadnan4/Assembly-Endgame) |
+| Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
+| Password-Generator | Generates complex, secure passwords to protect user privacy | [GitHub](https://github.com/imadnan4/Password-Generator) |
+| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [GitHub](https://github.com/imadnan4/spiral-sounds) |
+| Game-Of-War | Browser-based card game where you battle against the computer | [GitHub](https://github.com/imadnan4/Game-Of-War) |
+| Business-Card | Digital business card web application | [GitHub](https://github.com/imadnan4/Business-Card) |
+| Restaurant-Ordering-App | Restaurant food ordering interface practice project | [GitHub](https://github.com/imadnan4/Restaurant-Ordering-app-) |
+| Express-Api-Practice | REST API practice project built with Express.js | [GitHub](https://github.com/imadnan4/Express-Api-Practice) |
+| X-Clone | A clone of X (formerly Twitter) social media platform | [GitHub](https://github.com/imadnan4/x-clone) |
+| Quizzical | Interactive trivia quiz app built with React | [GitHub](https://github.com/imadnan4/Quizzical) |
+| Gold-Digger | Platform to track live gold prices and calculate investment amounts using a Node.js server | [GitHub](https://github.com/imadnan4/Gold-Digger) |
+| Personal-Dashboard-Chrome-Extension | Chrome extension that serves as a personal new-tab dashboard | [GitHub](https://github.com/imadnan4/Personal-Dashboard-Crome-Extension) |
+| Tenzies | Dice-rolling game built with React and Vite | [GitHub](https://github.com/imadnan4/Tenzies) |
+| Meme-Generator | React app for generating memes with custom text and images | [GitHub](https://github.com/imadnan4/meme-generator) |
+| Lead-Tracker | Chrome extension to bookmark and save URLs | [GitHub](https://github.com/imadnan4/Lead-Tracker) |
+| Color-Palette-Generator | Tool to generate and explore color palettes | [GitHub](https://github.com/imadnan4/Color-Palette-Generator) |
+| Movie-Watchlist | App to search and manage a personal movie watchlist | [GitHub](https://github.com/imadnan4/Movie-Watchlist) |
+
 ##  Let's Connect!
 
 <div align="center">
