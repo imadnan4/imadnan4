@@ -36,6 +36,7 @@ Live: [remaake.netlify.app](https://remakeai.me)
 
 | Project | Description | Link |
 |---------|-------------|------|
+| Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Live](https://stagetimer.netlify.app) |
 | Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
 | Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
