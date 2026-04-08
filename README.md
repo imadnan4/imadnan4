@@ -19,11 +19,6 @@
 
 Vision-Script is built to solve the problem of text digitalization. It uses OCR (Optical Character Recognition) to convert your hard copy documents to soft copy digital format. The best part? It's completely offline - once you set it up, you can use it without any internet connection or privacy concerns!
 
-###  FactRadar
-**Advanced Fact-Checking Platform**
-
-FactRadar is a comprehensive fact-checking solution that helps users verify information accuracy in real-time. Built with modern web technologies and AI-powered verification algorithms to combat misinformation.
-
 ###  Remake
 **AI-Powered Food Waste Reduction Platform**
 
