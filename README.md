@@ -14,11 +14,6 @@
 
 ##  Featured Projects
 
-###  Vision-Script
-**OCR Text Digitalization Solution**
-
-Vision-Script is built to solve the problem of text digitalization. It uses OCR (Optical Character Recognition) to convert your hard copy documents to soft copy digital format. The best part? It's completely offline - once you set it up, you can use it without any internet connection or privacy concerns!
-
 ###  Remake
 **AI-Powered Food Waste Reduction Platform**
 
