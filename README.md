@@ -22,7 +22,7 @@ Remake is an innovative web application that helps users reduce food waste by tr
 
 [LIVE](https://remakeai.me)
 
-## Mini Projects
+## More Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
