@@ -23,7 +23,7 @@
 | Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
 | Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
-| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [ Live](https://spiral-sounds-black.vercel.app) |
+| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [Github](https://github.com/imadnan4/spiral-sounds) |
 | Game-Of-War | Browser-based card game where you battle against the computer | [GitHub](https://github.com/imadnan4/Game-Of-War) |
 | Business-Card | Digital business card web application | [ Live](https://business-card-woad-nine.vercel.app) |
 | Restaurant-Ordering-App | Restaurant food ordering interface practice project | [GitHub](https://github.com/imadnan4/Restaurant-Ordering-app-) |
