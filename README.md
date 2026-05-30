@@ -20,6 +20,7 @@
 | Remake | AI-Powered Food Waste Reduction Platform, transforms leftover ingredients into meal suggestions with recipes, nutrition info, and cooking tips | [ Live](https://remakeai.me) |
 | Hirify | AI-powered hiring platform that streamlines the recruitment process | [ Live](https://hirify-frontend.netlify.app/) |
 | Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Live](https://stage-timer-remotely.netlify.app) |
+| SupportMind | SupportMind is an AI support platform with a dashboard and embeddable store widget for RAG chat, product search, and native cart actions. | [Github](https://github.com/imadnan4/SupportMind) |
 | Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
 | Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
