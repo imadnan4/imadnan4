@@ -23,6 +23,7 @@
 | SupportMind | SupportMind is an AI support platform with a dashboard and embeddable store widget for RAG chat, product search, and native cart actions. | [Github](https://github.com/imadnan4/SupportMind) |
 | To-do App | A full-stack notes application. Users can register, log in, and manage personal notes with titles, content, and tags. | [Github](https://github.com/imadnan4/todo-notes-app) |
 | URL-Shortener | A full stack URL shortener Rust + Axum + PostgreSQL backend, React frontend. | [Github](https://github.com/imadnan4/url-shortener) |
+| E-Commerce-Store  | Full-stack e-commerce web application built with Django & PostgreSQL | [Github](https://github.com/imadnan4/E-Commerce-Store) |
 | Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
 | Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
