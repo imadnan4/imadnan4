@@ -14,11 +14,11 @@
 
 ##  Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Smart-Evaluation-Framework | Educational platform for smart evaluation and learning resources | [ Live](https://smart-evaluation-framework.netlify.app/) |
-| Remake | AI-Powered Food Waste Reduction Platform, transforms leftover ingredients into meal suggestions with recipes, nutrition info, and cooking tips | [ Live](https://remakeai.me) |
-| Hirify | AI-powered hiring platform that streamlines the recruitment process | [ Live](https://hirify-frontend.netlify.app/) |
+| Project | Description | Repo | Deployment |
+|---------|-------------|------|------|
+| Smart-Evaluation-Framework | Educational platform for smart evaluation and learning resources | [ Github](https://github.com/imadnan4/Smart-Evaluation-Framework) | [ Live](https://smart-evaluation-framework.netlify.app/) |
+| Remake | AI-Powered Food Waste Reduction Platform, transforms leftover ingredients into meal suggestions with recipes, nutrition info, and cooking tips | N/A | [ Live](https://remakeai.me) |
+| Hirify | AI-powered hiring platform that streamlines the recruitment process | [ Github](https://github.com/imadnan4/Hirify) | [ Live](https://hirify-frontend.netlify.app/) |
 | Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Live](https://stage-timer-remotely.netlify.app/) |
 | Bug-Whisperer | AI Debugger with Persistent Memory | [GitHub](https://github.com/imadnan4/Bug-Whisperer) |
 | SupportMind | SupportMind is an AI support platform with a dashboard and embeddable store widget for RAG chat, product search, and native cart actions. | [Github](https://github.com/imadnan4/SupportMind) |
