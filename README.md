@@ -19,15 +19,15 @@
 | Smart-Evaluation-Framework | Educational platform for smart evaluation and learning resources | [ Github](https://github.com/imadnan4/Smart-Evaluation-Framework) | [ Live](https://smart-evaluation-framework.netlify.app/) |
 | Remake | AI-Powered Food Waste Reduction Platform, transforms leftover ingredients into meal suggestions with recipes, nutrition info, and cooking tips | N/A | [ Live](https://remakeai.me) |
 | Hirify | AI-powered hiring platform that streamlines the recruitment process | [ Github](https://github.com/imadnan4/Hirify-Resume-Matching-) | [ Live](https://hirify-frontend.netlify.app/) |
-| Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Live](https://stage-timer-remotely.netlify.app/) |
-| Bug-Whisperer | AI Debugger with Persistent Memory | [GitHub](https://github.com/imadnan4/Bug-Whisperer) |
+| Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Github](https://github.com/imadnan4/stagetimer) | [ Live](https://stage-timer-remotely.netlify.app/) |
+| Bug-Whisperer | AI Debugger with Persistent Memory | [GitHub](https://github.com/imadnan4/Bug-Whisperer) | [ Live](https://bug-whisperer.netlify.app/) | 
 | SupportMind | SupportMind is an AI support platform with a dashboard and embeddable store widget for RAG chat, product search, and native cart actions. | [Github](https://github.com/imadnan4/SupportMind) |
 | To-do App | A full-stack notes application. Users can register, log in, and manage personal notes with titles, content, and tags. | [Github](https://github.com/imadnan4/todo-notes-app) |
 | URL-Shortener | A full stack URL shortener Rust + Axum + PostgreSQL backend, React frontend. | [Github](https://github.com/imadnan4/url-shortener) |
 | E-Commerce-Store  | Full-stack e-commerce web application built with Django & PostgreSQL | [Github](https://github.com/imadnan4/E-Commerce-Store) |
-| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [ Live](https://assamblyendgame.netlify.app) |
+| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [Github](https://github.com/imadnan4/Assembly-Endgame) | [ Live](https://assamblyendgame.netlify.app) |
 | Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
-| Password-Generator | Generates complex, secure passwords to protect user privacy | [ Live](https://password-generator-flax-seven.vercel.app) |
+| Password-Generator | Generates complex, secure passwords to protect user privacy | [GitHub](https://github.com/imadnan4/Password-Generator) | [ Live](https://password-generator-flax-seven.vercel.app) |
 | Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [Github](https://github.com/imadnan4/spiral-sounds) |
 | Game-Of-War | Browser-based card game where you battle against the computer | [GitHub](https://github.com/imadnan4/Game-Of-War) |
 | Business-Card | Digital business card web application | [ Live](https://business-card-woad-nine.vercel.app) |
