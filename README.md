@@ -1,8 +1,5 @@
 # Hi there! I'm Adnan 
 
-Checkout my skills here: [architect-skills](https://github.com/imadnan4/architect-skills) — a modular system-design skill pack that turns coding agents into Staff/Principal architects.
-
-
 
 ##  What I Do
 
@@ -12,7 +9,7 @@ Checkout my skills here: [architect-skills](https://github.com/imadnan4/architec
 -  **Cloud Solutions**: Developing cloud-native applications and services
 -  **Full-Stack Development**: Creating end-to-end web applications
 
-
+Checkout my skills here: [system-achitecture](https://github.com/imadnan4/architect-skills) - a modular system-design skill pack that turns coding agents into Staff/Principal architects.
 
 ##  Projects
 
