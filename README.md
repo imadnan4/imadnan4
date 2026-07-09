@@ -1,5 +1,7 @@
 # Hi there! I'm Adnan 
 
+Checkout my skills here: [architect-skills](https://github.com/imadnan4/architect-skills) — a modular system-design skill pack that turns coding agents into Staff/Principal architects.
+
 
 
 ##  What I Do
