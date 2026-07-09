@@ -1,52 +1,46 @@
-# Hi there! I'm Adnan 
+# Adnan Ahmad
+**Full Stack AI Engineer**
 
+BS Computer Science, 2026. Open to remote and on-site roles (Islamabad/Lahore), including international with visa sponsorship.
 
-##  What I Do
+## What I Do
 
--  **AI Applications**: Building scalable artificial intelligence solutions
--  **LLM Architecture**: Exploring and implementing Large Language Model architectures
--  **ML Optimization**: Optimizing machine learning models for performance and efficiency
--  **Cloud Solutions**: Developing cloud-native applications and services
--  **Full-Stack Development**: Creating end-to-end web applications
+- **AI Systems and Agents:** Design and build production LLM applications, including agentic workflows, RAG pipelines, and persistent memory systems.
+- **Backend Engineering:** Build and scale APIs and services using FastAPI, Node.js, and Rust.
+- **Full-Stack Development:** Ship end-to-end products, from React and Next.js frontends to PostgreSQL backed services.
+- **Cloud and Deployment:** Deploy and operate applications on AWS, OCI, and modern hosting platforms.
 
-Checkout my skills here: [system-achitecture](https://github.com/imadnan4/architect-skills) - a modular system-design skill pack that turns coding agents into Staff/Principal architects.
+I built [system-architecture](https://github.com/imadnan4/architect-skills), a modular skill pack for system architecture reasoning in coding agents.
 
-##  Projects
+## Tech Stack
 
-| Project | Description | Repo | Deployment |
-|---------|-------------|------|------|
-| Smart-Evaluation-Framework | Educational platform for smart evaluation and learning resources | [ Github](https://github.com/imadnan4/Smart-Evaluation-Framework) | [ Live](https://smart-evaluation-framework.netlify.app/) |
-| Remake | AI-Powered Food Waste Reduction Platform, transforms leftover ingredients into meal suggestions with recipes, nutrition info, and cooking tips | N/A | [ Live](https://remakeai.me) |
-| Hirify | AI-powered hiring platform that streamlines the recruitment process | [ Github](https://github.com/imadnan4/Hirify-Resume-Matching-) | [ Live](https://hirify-frontend.netlify.app/) |
-| Stagetimer | Browser-based presentation timer with one controller and many synced displays, built with Next.js and an Express + WebSocket backend | [ Github](https://github.com/imadnan4/stagetimer) | [ Live](https://stage-timer-remotely.netlify.app/) |
-| Bug-Whisperer | AI Debugger with Persistent Memory | [GitHub](https://github.com/imadnan4/Bug-Whisperer) | [ Live](https://bug-whisperer.netlify.app/) | 
-| SupportMind | SupportMind is an AI support platform with a dashboard and embeddable store widget for RAG chat, product search, and native cart actions. | [Github](https://github.com/imadnan4/SupportMind) |
-| To-do App | A full-stack notes application. Users can register, log in, and manage personal notes with titles, content, and tags. | [Github](https://github.com/imadnan4/todo-notes-app) |
-| URL-Shortener | A full stack URL shortener Rust + Axum + PostgreSQL backend, React frontend. | [Github](https://github.com/imadnan4/url-shortener) |
-| E-Commerce-Store  | Full-stack e-commerce web application built with Django & PostgreSQL | [Github](https://github.com/imadnan4/E-Commerce-Store) |
-| Assembly-Endgame | Word-guessing game built with React where players guess the hidden word before running out of attempts | [Github](https://github.com/imadnan4/Assembly-Endgame) | [ Live](https://assamblyendgame.netlify.app) |
-| Real-Estate-Template | Modern property details page (Veloura Residences) built with React and TailwindCSS | [GitHub](https://github.com/imadnan4/Real-Estate-Template) |
-| Password-Generator | Generates complex, secure passwords to protect user privacy | [GitHub](https://github.com/imadnan4/Password-Generator) | [ Live](https://password-generator-flax-seven.vercel.app) |
-| Spiral-Sounds | Online vinyl record store with Node.js, Express & SQLite featuring auth, cart, and genre filtering | [Github](https://github.com/imadnan4/spiral-sounds) |
-| Game-Of-War | Browser-based card game where you battle against the computer | [GitHub](https://github.com/imadnan4/Game-Of-War) |
-| Business-Card | Digital business card web application | [ Live](https://business-card-woad-nine.vercel.app) |
-| Restaurant-Ordering-App | Restaurant food ordering interface practice project | [GitHub](https://github.com/imadnan4/Restaurant-Ordering-app-) |
-| Express-Api-Practice | REST API practice project built with Express.js | [GitHub](https://github.com/imadnan4/Express-Api-Practice) |
-| X-Clone | A clone of X (formerly Twitter) social media platform | [GitHub](https://github.com/imadnan4/x-clone) |
-| Quizzical | Interactive trivia quiz app built with React | [ Live](https://quizzical-beige-eight.vercel.app) |
-| Gold-Digger | Platform to track live gold prices and calculate investment amounts using a Node.js server | [ Live](https://gold-digger-six.vercel.app) |
-| Personal-Dashboard-Chrome-Extension | Chrome extension that serves as a personal new-tab dashboard | [GitHub](https://github.com/imadnan4/Personal-Dashboard-Crome-Extension) |
-| Tenzies | Dice-rolling game built with React and Vite | [ Live](https://tenzies-eight-mocha.vercel.app) |
-| Meme-Generator | React app for generating memes with custom text and images | [ Live](https://meme-generator-alpha-lilac.vercel.app) |
-| Lead-Tracker | Chrome extension to bookmark and save URLs | [GitHub](https://github.com/imadnan4/Lead-Tracker) |
-| Color-Palette-Generator | Tool to generate and explore color palettes | [GitHub](https://github.com/imadnan4/Color-Palette-Generator) |
-| Movie-Watchlist | App to search and manage a personal movie watchlist | [ Live](https://movie-watchlist-ruddy.vercel.app) |
-| Instagram-Clone | A static clone of Instagram's UI built with HTML and CSS | [GitHub](https://github.com/imadnan4/instagram-clone) |
-| Blog-Page | A clean, responsive blog page layout built with HTML and CSS | [GitHub](https://github.com/imadnan4/Blog-Page) |
-| Translation-App | A web app to translate text between multiple languages using a translation API | [GitHub](https://github.com/imadnan4/Translation-App) |
-| Unit-Counter | A handy unit conversion tool to convert between various measurement units | [GitHub](https://github.com/imadnan4/Unit-Counter) |
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
 
-##  Let's Connect!
+**Backend:** Node.js, Express, FastAPI, Django, Rust (Axum)
+
+**AI:** LangChain, LangGraph, RAG, MCP, AI Agents
+
+**Coding Agents:** Cursor, Claude Code, OpenCode, Gemini CLI, GitHub Copilot
+
+**Databases:** PostgreSQL, MongoDB, SQLite, Supabase, Neon, Convex
+
+**Testing:** Pytest, Jest
+
+**Cloud and DevOps:** Docker, Git, GitHub Actions, AWS, OCI, Vercel, Netlify, Railway
+
+## Projects
+
+| Project | Description | Repo | Live |
+|---|---|---|---|
+| **Bug Whisperer** | AI debugging assistant with persistent memory. Winner, Best Use of Open Source. Improved bug fix recall from 0 to over 66 percent. | [GitHub](https://github.com/imadnan4/Bug-Whisperer) | [Live](https://bug-whisperer.netlify.app/) |
+| **Smart Evaluation Framework** | AI powered educational assessment platform using OCR and RAG to automate exam grading end to end. | [GitHub](https://github.com/imadnan4/Smart-Evaluation-Framework) | [Live](https://smart-evaluation-framework.netlify.app/) |
+| **Hirify** | AI powered hiring platform using BERT based resume matching to streamline recruitment screening. | [GitHub](https://github.com/imadnan4/Hirify-Resume-Matching-) | [Live](https://hirify-frontend.netlify.app/) |
+| **SupportMind** | AI customer support platform with a dashboard and embeddable widget for RAG chat, product search, and cart actions. | [GitHub](https://github.com/imadnan4/SupportMind) | |
+| **URL Shortener** | Full-stack URL shortener built with Rust, Axum, and PostgreSQL, with a React frontend. | [GitHub](https://github.com/imadnan4/url-shortener) | |
+| **Stagetimer** | Browser based presentation timer with one controller and multiple synced displays, built with Next.js and an Express plus WebSocket backend. | [GitHub](https://github.com/imadnan4/stagetimer) | [Live](https://stage-timer-remotely.netlify.app/) |
+| **Remake** | AI powered platform that turns leftover ingredients into recipe suggestions with nutrition info. | | [Live](https://remakeai.me) |
+
+## Connect
 
 <div align="center">
   <a href="https://discord.com/im_adnan/" target="_blank">
@@ -66,14 +60,6 @@ Checkout my skills here: [system-achitecture](https://github.com/imadnan4/archit
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imadnan4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **"Building the future, one line of code at a time"** 
-  
 </div>
