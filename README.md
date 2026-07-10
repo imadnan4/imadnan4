@@ -1,7 +1,7 @@
 # Adnan Ahmad
 **Full Stack AI Engineer**
 
-BS Computer Science, 2026. Open to remote and on-site roles (Islamabad/Lahore), including international with visa sponsorship.
+BS Computer Science, 2026. Open to remote and on-site roles (Islamabad/Lahore/Karachi), including international with visa sponsorship.
 
 ## What I Do
 
