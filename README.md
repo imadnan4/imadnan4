@@ -36,6 +36,7 @@ I built [system-architecture](https://github.com/imadnan4/architect-skills), a m
 | **Smart Evaluation Framework** | AI powered educational assessment platform using OCR and RAG to automate exam grading end to end. | [GitHub](https://github.com/imadnan4/Smart-Evaluation-Framework) | [Live](https://smart-evaluation-framework.netlify.app/) |
 | **Hirify** | AI powered hiring platform using BERT based resume matching to streamline recruitment screening. | [GitHub](https://github.com/imadnan4/Hirify-Resume-Matching-) | [Live](https://hirify-frontend.netlify.app/) |
 | **SupportMind** | AI customer support platform with a dashboard and embeddable widget for RAG chat, product search, and cart actions. | [GitHub](https://github.com/imadnan4/SupportMind) | |
+| **MedRoute** | Intelligent Medical Triage & Routing Agent for Low-Resource Clinics. | [GitHub](https://github.com/imadnan4/MedRoute) | |
 | **URL Shortener** | Full-stack URL shortener built with Rust, Axum, and PostgreSQL, with a React frontend. | [GitHub](https://github.com/imadnan4/url-shortener) | |
 | **Stagetimer** | Browser based presentation timer with one controller and multiple synced displays, built with Next.js and an Express plus WebSocket backend. | [GitHub](https://github.com/imadnan4/stagetimer) | [Live](https://stage-timer-remotely.netlify.app/) |
 | **Remake** | AI powered platform that turns leftover ingredients into recipe suggestions with nutrition info. | | [Live](https://remakeai.me) |
